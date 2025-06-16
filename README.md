@@ -70,12 +70,12 @@ These opposing trends might explain why the overall correlation appeared insigni
 [5] Mayer, R. E. (2020).  
 *Cognitive Foundations of Game-Based Learning.*  
 In: Ifenthaler, D., Eseryel, D., & Ge, X. (Eds.), *Handbook of Game-Based Learning*. MIT Press.  
-[https://doi.org/10.7551/mitpress/13866.003.0008](https://doi.org/10.7551/mitpress/13866.003.0008)
+[https://psycnet.apa.org/record/2020-10545-004](https://psycnet.apa.org/record/2020-10545-004)
 
 [6] Schaffer, O. (2023).  
 *Task Significance in Digital Games: Controlled Experiment Shows Impact of Narrative Framing and Upgrades on Player Experience.*  
-In: *HCI in Games*, Springer.  
-[https://doi.org/10.1007/978-3-031-35979-8_24](https://doi.org/10.1007/978-3-031-35979-8_24)
+In: Fang, X. (eds) *HCI in Games*, Springer.  
+[https://doi.org/10.1007/978-3-031-35979-8_26](https://doi.org/10.1007/978-3-031-35979-8_26)
 
 
 ## Contact
