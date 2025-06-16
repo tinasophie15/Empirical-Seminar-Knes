@@ -49,8 +49,8 @@ These opposing trends might explain why the overall correlation appeared insigni
 - Alexiou et al. (2022). Narrative and Aesthetics in Serious Games. [DOI](https://doi.org/10.1108/ITP-08-2019-0435)
 - Bai et al. (2020). Gamification & Learning Outcomes. [DOI](https://doi.org/10.1016/j.edurev.2020.100322)
 - Zilcha-Mano et al. (2011). Attachment to Pets. [DOI](https://doi.org/10.1016/j.jrp.2011.04.001)
-- Mayer (2020). Cognitive Foundations of Game-Based Learning.
-- Schaffer (2023). Task Significance in Digital Games.
+- Mayer (2020). Cognitive Foundations of Game-Based Learning. [DOI](https://doi.org/10.7551/mitpress/13866.003.0008)
+- Schaffer (2023). Task Significance in Digital Games. [DOI](https://doi.org/10.1007/978-3-031-35979-8_24)
 
 ## Contact
 
