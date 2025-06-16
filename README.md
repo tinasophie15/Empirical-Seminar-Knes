@@ -46,11 +46,37 @@ These opposing trends might explain why the overall correlation appeared insigni
 
 ## References
 
-- Alexiou et al. (2022). Narrative and Aesthetics in Serious Games. [DOI](https://doi.org/10.1108/ITP-08-2019-0435)
-- Bai et al. (2020). Gamification & Learning Outcomes. [DOI](https://doi.org/10.1016/j.edurev.2020.100322)
-- Zilcha-Mano et al. (2011). Attachment to Pets. [DOI](https://doi.org/10.1016/j.jrp.2011.04.001)
-- Mayer (2020). Cognitive Foundations of Game-Based Learning. [DOI](https://doi.org/10.7551/mitpress/13866.003.0008)
-- Schaffer (2023). Task Significance in Digital Games. [DOI](https://doi.org/10.1007/978-3-031-35979-8_24)
+
+[1] Alexiou, A., Schippers, M. C., Oshri, I., & Angelopoulos, S. (2022).  
+*Narrative and Aesthetics as Antecedents of Perceived Learning in Serious Games.*  
+*Information Technology & People, 35(8), 142–161.*  
+[https://doi.org/10.1108/ITP-08-2019-0435](https://doi.org/10.1108/ITP-08-2019-0435)
+
+[2] Bai, S., Hew, K. F., & Huang, B. (2020).  
+*Does gamification improve student learning outcome? Evidence from a meta-analysis and synthesis of qualitative data in educational contexts.*  
+*Educational Research Review, 30, 100322.*  
+[https://doi.org/10.1016/j.edurev.2020.100322](https://doi.org/10.1016/j.edurev.2020.100322)
+
+[3] Lazzaro, N. (2004).  
+*Why We Play Games: Four Keys to More Emotion Without Story.*  
+*XEODesign, Inc.*  
+[https://www.academia.edu/105230724/Why_we_play_games_Four_keys_to_more_emotion_without_story](https://www.academia.edu/105230724/Why_we_play_games_Four_keys_to_more_emotion_without_story)
+
+[4] Zilcha-Mano, S., Mikulincer, M., & Shaver, P. R. (2011).  
+*An attachment perspective on human–pet relationships: Conceptualization and assessment of pet attachment orientations.*  
+*Journal of Research in Personality, 45(4), 345–357.*  
+[https://doi.org/10.1016/j.jrp.2011.04.001](https://doi.org/10.1016/j.jrp.2011.04.001)
+
+[5] Mayer, R. E. (2020).  
+*Cognitive Foundations of Game-Based Learning.*  
+In: Ifenthaler, D., Eseryel, D., & Ge, X. (Eds.), *Handbook of Game-Based Learning*. MIT Press.  
+[https://doi.org/10.7551/mitpress/13866.003.0008](https://doi.org/10.7551/mitpress/13866.003.0008)
+
+[6] Schaffer, O. (2023).  
+*Task Significance in Digital Games: Controlled Experiment Shows Impact of Narrative Framing and Upgrades on Player Experience.*  
+In: *HCI in Games*, Springer.  
+[https://doi.org/10.1007/978-3-031-35979-8_24](https://doi.org/10.1007/978-3-031-35979-8_24)
+
 
 ## Contact
 
